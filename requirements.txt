@@ -1,0 +1,16 @@
+streamlit
+streamlit-chat
+langchain-community
+langchain-pinecone >= 0.2.0
+pinecone
+pillow
+langchain
+langchain-core
+langchain-openai
+python-dotenv
+langchain-text-splitters
+langchain-ollama
+langgraph
+pandas
+streamlit-mermaid
+langgraph-checkpoint-sqlite
